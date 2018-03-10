@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1520691417 source:c:\users\alexandre vessoni\desktop\tree\arvorebinaria.c
+	"arvoreBinaria.h"
+
+1520691818 source:c:\users\alexandre vessoni\desktop\tree\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arvoreBinaria.h"
+
+1520691830 c:\users\alexandre vessoni\desktop\tree\arvorebinaria.h
+	<stdlib.h>
+
